@@ -1,2 +1,2 @@
 # TRIBE-G
-project on open source data visualisatin 
+project on open source data visualization
